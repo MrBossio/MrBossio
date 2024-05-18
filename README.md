@@ -25,7 +25,7 @@ We are developers, obviously, we need to learn some languages to work in IT. I h
 
 `#C++` `#Csharp` 
 - My projects:
-	- **[LegadoDelSol_v1.0](https://github.com/MrBossio/LegadoDelSol_v1.0)**: Development of a historical fiction video game based on the history of Inca Peru using the User Centered Design framework that generates interest in the activities addressed in the video game. Thesis to opt for my Informatics Engineering Degree.
+	- **[LegadoDelSol_v1.0](https://github.com/MrBossio/LegadoDelSol_v1.0)**: Development of a historical fiction video game based on the history of Inca Peru using the User Centered Design framework that generates interest in the activities addressed in the video game. Thesis to opt for my Informatics Engineering Degree. [Download and play](https://drive.google.com/open?id=1-Fqzb5YTq8j-yqrTKmPvPIrYu_TdAMMk&usp=drive_fs).
 	- **[ComputerGraphicArts](https://github.com/MrBossio/ComputerGraphicArts)**: 2D and 3D graphic arts using C++ with openGL GLUT library. All the images/videos were written in code.
 > [!NOTE]
 > <sub>C and C++ (and for extension C#) are some of the foundations of our modern society. Is quite difficult to learn C and derivates, but very helpful to become a good developer because you will learn to manage the computer resources at a very low level.</sub>
