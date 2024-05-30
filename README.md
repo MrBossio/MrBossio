@@ -8,7 +8,7 @@ I am using https://roadmap.sh/devops as reference for languages/technologies/too
 I will be sharing some projects/demos/PoC related to every topic in the roadmap.  
 Let's get started!
 
-## Chapter 1: Learning programming languages
+## Chapter 1: About programming languages
 We are developers, obviously, we need to learn some languages to work in IT. I have worked with many languages and I can recommend two: Python and Java. I also recommend to learn the most commercial framework for every language.
 
 `#Java17` `#Springboot` `#MySQL8`  
