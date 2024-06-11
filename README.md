@@ -15,7 +15,7 @@ Let's get started!
   </a>
 </p>
 We are developers, obviously, we need to learn some languages to work in IT. I have worked with many languages and I can recommend two: Python and Java. I also recommend to learn the most commercial framework for every language. Finally, you need to know SQL to manage databases.    
-
+  
 `#Java17` `#Springboot` `#MySQL8`  
 - My projects:
 	- **[Air-cargo collapse simulator](https://github.com/MrBossio/parcel-shipments-by-air-cargo-API)**: A program to simulate the daily operations of an Air-cargo company, trying to determine the most efficient algorithm to avoid logistics collapse. Please read carefully the readme file for full details. 
