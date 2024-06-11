@@ -21,7 +21,7 @@ We are developers, obviously, we need to learn some languages to work in IT. I h
 - My projects:
 	- **[Air-cargo collapse simulator](https://github.com/MrBossio/parcel-shipments-by-air-cargo-API)**: A program to simulate the daily operations of an Air-cargo company, trying to determine the most efficient algorithm to avoid logistics collapse. Please read carefully the readme file for full details.  
 
-`#Python` `#Django` `#PostgreSQL` `#Zappa`  
+`#Python` `#Django` `#PostgreSQL` `#Zappa` `#AWS` `#Lambda` 
 - My projects:
 	- Running a serverless Django project in AWS Lambda: A example project to run a Django backend using AWS Lambdas, deployed with Zappa.
 
