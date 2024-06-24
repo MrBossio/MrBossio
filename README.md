@@ -23,7 +23,7 @@ We are developers, obviously, we need to learn some languages to work in IT. I h
 
 `Python` `Django` `PostgreSQL` `Zappa` `AWS` `Lambda` 
 - My projects:
-	- Running a serverless Django project in AWS Lambda: A example project to run a Django backend using AWS Lambdas, deployed with Zappa.
+	- **[Django deployment in AWS Lambda]**(https://github.com/MrBossio/sigcc-back)Running a serverless Django project in AWS Lambda: A example project to run a Django backend using AWS Lambdas, deployed with Zappa.
 
 `C` `C++` `C#` 
 - My projects:
