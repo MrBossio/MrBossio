@@ -44,12 +44,12 @@ We are developers, obviously, we need to learn some languages to work in IT. I h
   </a>
 </p>
 
-Since most of my code run in servers, I needed to learn the basis (and some advanced topics) to deploy successfully my developed applications. 
+Since most of my code runs on servers, I needed to learn the basics (and some advanced topics) to successfully deploy my developed applications. 
 
 `Bash` `Linux`
 - Some projects:
-	- **[How to config rsync to syncronize and backup directories]()**: A quick tutorial to syncronize two folders in different Linux servers for a simple backup in real time.	
-	- **[How to create/renew certificates in a Linux/Windows server]()**: Some notes to remember how to manage expired certificates in servers.  
+	- **[How to config rsync to syncronize and backup directories]()**: A quick tutorial to sync two folders on different Linux servers for a simple real-time backup.	
+	- **[How to create/renew certificates in a Linux/Windows server]()**: Some notes to remember how to manage expired certificates on servers.  
 
 `Bash` `Linux` `Nginx` `Docker Swarm`
 - Some projects:
@@ -71,13 +71,13 @@ Since most of my code run in servers, I needed to learn the basis (and some adva
 Hey, Did I tell you that I have extensive experience in the cloud? I have two certifications in AWS (please click to open the credly badget):  
 	- **[AWS Certified Developer – Associate (DVA-C01)](https://www.credly.com/badges/88c50bd8-dc55-4a7b-9d11-7c3da6d5c149/public_url)**  
 	- **[AWS Certified Data Analytics – Specialty (DAS-C01)](https://www.credly.com/badges/565789e9-78f0-440a-be47-1a708322e796/linked_in)**   
-Currently, I have extensive knowledge about AWS cloud, using serverless architecture, noSQL, IaC (CloudFormation), IAM and more.  
+Currently, I have extensive knowledge of the AWS cloud, using serverless architecture, noSQL, IaC (CloudFormation), IAM and more.  
 
-Also, I am working to obtain the AZ-204 of Azure, and learning new technologies to automatize deployment in multicloud platforms (Terraform/Ansible).
+Also, I am working to obtain the AZ-204 of Azure, and learning new technologies to automate deployment to multiple cloud services (Terraform/Ansible).
 
 `Python` `Django` `PostgreSQL` `Zappa` `AWS` `Lambda` 
 - My projects:
-	- **[Django deployment in AWS Lambda](https://github.com/MrBossio/sigcc-back)**: Running a serverless Django project in AWS Lambda: A example project to run a Django backend using AWS Lambdas, deployed with Zappa. Capstone project to opt for my Informatics Engineering Degree. For this project I had the role of Tech Leader, main commit reviewer and DevOps, leading a group of 13 developers.
+	- **[Django deployment in AWS Lambda](https://github.com/MrBossio/sigcc-back)**: Running a serverless Django project on AWS Lambda: An example project to run a Django backend using AWS Lambdas, deployed with Zappa. Capstone project to opt for my Informatics Engineering Degree. For this project I had the role of Tech Leader, main commit reviewer and DevOps, leading a group of 13 developers.
 
 `Cloudformation` `AWS` `CDK` `Python` `Lambda` `DynamoDB` `Cognito` `ApiGateway` 
 - My projects:
@@ -94,22 +94,22 @@ Also, I am working to obtain the AZ-204 of Azure, and learning new technologies 
 
 To work in IT/Development, we need to know how to work with at least a VCS repository, a documentation tool and a tool for project management.
 
-1. **Project Management**: I have worked mainly with Jira, since this is a industry standar. Also Jira has the facility to connect to BitBucket (you can link taks with branches in your code) and Confluence (where you can document your code, and easily show your files directly from BitBucket). I also worked with ClickUp.
+1. **Project Management**: I have primarily worked with Jira as this is an industry standard. Additionally, Jira has the ability to connect to BitBucket (you can link taks to branches in your code) and Confluence (where you can document your code, and easily show your files directly from BitBucket). I also worked with ClickUp.
 
-2. **Documentation**: You have at your disposition several tools to document your projects. Obiously, it depends of the tool you choose.  
+2. **Documentation**: You have at your disposal several tools to document your projects. Obiously, it depends on the tool you choose.  
 	1. GitHub: you will need to use Markdown to document your project, similar to this document you are currently reading.
-	2. Confluence: you can also document using the Atlassian main tool. This have a lot of tools to enrich your documentation (graphs, code styles, links to BitBucket/Jira). As a disadvantage, this tool is not fully compatible with Markdown.
-	3. Obsidian: a beautyfull tool to write documentation. This is open source, and can run in local for free or hosted if you pay a fee. As Confluence, this is not fully compatible with Markdown.  
+	2. Confluence: you can also document using the Atlassian tool. It has many tools to enrich your documentation (graphs, code styles, links to BitBucket/Jira). On the downside, this tool is not fully compatible with Markdown.
+	3. Obsidian: a beautyfull tool for write documentation. It is open source, and can run locally for free or hosted if you pay a fee. Like Confluence, this is not fully compatible with Markdown.  
 
 	`Obsidian`
 	- Some reference documents:
 		- **[Learning notes from course "Ansible: From Basics To Guru"](https://github.com/MrBossio/Learning-notes-Ansible)**: Some student notes on Linux terminal commands and C system calls. They are in Spanish (my native language, and probably doesn't contain the exact description, but they were very useful to me at the time).  
 
 3. **Version Control Systems**: I have worked with many VCS tools:
-	- BitBucket: I have worked mainly with this tool because this is related to Jira. I have configured repositories to connect Jira epics and taks to BitBucket branches, and also configured roles and permissions to modify/push/review code in multiple tier level branches.
-	- Github: Obviously I have worked with Github, since this is another industry standar.
+	- BitBucket: I have worked mainly with this tool because this is related to Jira. I have configured repositories to connect Jira epics and taks to BitBucket branches, and also set u[] roles and permissions to modify/push/review code in multiple-tier branches.
+	- Github: Obviously I have worked with Github, as this is another industry standar.
 
-## 5: Containerizing applications for development and production
+## 5:  Containerization of applications for development and production
 
 <p align="center">
   <a href="https://skillicons.dev">
