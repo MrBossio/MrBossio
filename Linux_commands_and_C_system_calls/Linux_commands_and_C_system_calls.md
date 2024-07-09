@@ -1,0 +1,1 @@
+Some student notes on Linux terminal commands and C system calls. They are in Spanish (my native language, and probably doesn't contain the exact description, but they were very useful to me at the time).
