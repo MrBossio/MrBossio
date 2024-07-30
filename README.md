@@ -105,8 +105,7 @@ To work in IT/Development, we need to know how to work with at least a VCS repos
 	3. Obsidian: a beautyfull tool for write documentation. It is open source, and can run locally for free or hosted if you pay a fee. Like Confluence, this is not fully compatible with Markdown.  
 	`Obsidian`
 		- Some reference documents:
-			- **[Learning notes from course "Ansible: From Basics To Guru"](https://github.com/MrBossio/Learning-notes-Ansible)**: Some student notes for a course taught by "O'Reilly Media".  
-			- **[Learning notes from bootcamp "Azure Developer Associate AZ-204"](https://github.com/MrBossio/Learning-notes-Azure)**: Some student notes for a bootcamp taught by "Código Facilito" academy.  
+			- **[Learning notes from course "Ansible: From Basics To Guru"](https://github.com/MrBossio/Learning-notes-Ansible)** taught by "O'Reilly Media" and **[Learning notes from bootcamp "Azure Developer Associate AZ-204"](https://github.com/MrBossio/Learning-notes-Azure)** for a bootcamp taught by "Código Facilito" academy.  
 
 3. **Version Control Systems**: I have worked with many VCS tools:
 	- BitBucket: I have worked mainly with this tool because this is related to Jira. I have configured repositories to connect Jira epics and taks to BitBucket branches, and also set u[] roles and permissions to modify/push/review code in multiple-tier branches.
