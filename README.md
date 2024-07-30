@@ -47,7 +47,7 @@ We are developers, obviously, we need to learn some languages to work in IT. I h
 Since most of my code runs on servers, I needed to learn the basics (and some advanced topics) to successfully deploy my developed applications. 
 
 `Bash` `Linux`
-- Some projects:
+- Some notes and projects:
 	- **[How to config rsync to syncronize and backup directories]()**: A quick tutorial to sync two folders on different Linux servers for a simple real-time backup.	
 	- **[How to create/renew certificates in a Linux/Windows server]()**: Some notes to remember how to manage expired certificates on servers.  
 
@@ -59,7 +59,7 @@ Since most of my code runs on servers, I needed to learn the basics (and some ad
 - Some old reference documents:
     - **[Linux commands and C system calls](Linux_commands_and_C_system_calls/Linux_commands_and_C_system_calls.md)**: Some student notes on Linux terminal commands and C system calls. They are in Spanish (my native language, and probably doesn't contain the exact description, but they were very useful to me at the time).  
 
-## 3: Working in the clouds
+## 3: Working in the clouds, using serverless services and Infrastructure as Code
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -97,13 +97,16 @@ To work in IT/Development, we need to know how to work with at least a VCS repos
 1. **Project Management**: I have primarily worked with Jira as this is an industry standard. Additionally, Jira has the ability to connect to BitBucket (you can link taks to branches in your code) and Confluence (where you can document your code, and easily show your files directly from BitBucket). I also worked with ClickUp.
 
 2. **Documentation**: You have at your disposal several tools to document your projects. Obiously, it depends on the tool you choose.  
-	1. GitHub: you will need to use Markdown to document your project, similar to this document you are currently reading.
+	1. GitHub: you will need to use Markdown to document your project, similar to this document you are currently reading.  
+	`Github`
+		- Some reference documents:
+			- **[Tutorial to migrate Zabbix server from v5 to v6](https://github.com/MrBossio/zabbix-v5-to-v6-migration)**: This is a tutorial to migrate a Zabbix server, from v5 to v6 in a RHEL8 server. Includes database migration, agent setup and reverse proxy configuration to connect Zabbix tomcat server to nginx reverse proxy server. This tutorial is quite large but will be useful for anyone who has problems migrating Zabbix database. 
 	2. Confluence: you can also document using the Atlassian tool. It has many tools to enrich your documentation (graphs, code styles, links to BitBucket/Jira). On the downside, this tool is not fully compatible with Markdown.
 	3. Obsidian: a beautyfull tool for write documentation. It is open source, and can run locally for free or hosted if you pay a fee. Like Confluence, this is not fully compatible with Markdown.  
-
 	`Obsidian`
-	- Some reference documents:
-		- **[Learning notes from course "Ansible: From Basics To Guru"](https://github.com/MrBossio/Learning-notes-Ansible)**: Some student notes on Linux terminal commands and C system calls. They are in Spanish (my native language, and probably doesn't contain the exact description, but they were very useful to me at the time).  
+		- Some reference documents:
+			- **[Learning notes from course "Ansible: From Basics To Guru"](https://github.com/MrBossio/Learning-notes-Ansible)**: Some student notes for a course taught by "O'Reilly Media".  
+			- **[Learning notes from bootcamp "Azure Developer Associate AZ-204"](https://github.com/MrBossio/Learning-notes-Azure)**: Some student notes for a bootcamp taught by "Código Facilito" academy.  
 
 3. **Version Control Systems**: I have worked with many VCS tools:
 	- BitBucket: I have worked mainly with this tool because this is related to Jira. I have configured repositories to connect Jira epics and taks to BitBucket branches, and also set u[] roles and permissions to modify/push/review code in multiple-tier branches.
@@ -117,11 +120,18 @@ To work in IT/Development, we need to know how to work with at least a VCS repos
   </a>
 </p>
 
+### nginx docker
+### django zappa
 
-## 6: Working with CI/CD tools and Configuration Management
+## 6: Working with CI/CD tools, Configuration Management, Infraestructure Monitoring and Security
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=jenkins,ansible,terraform" />
   </a>
 </p>
+
+### ansible demo
+### jenkins demo
+### tenable demo
+### zabbix migration 
